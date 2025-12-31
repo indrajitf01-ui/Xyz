@@ -1,9 +1,9 @@
 import telebot
 
 # --- SETUP ---
-BOT_TOKEN = "APNA_NEW_BOT_TOKEN_DAALEIN" # @BotFather se naya bot banakar token yahan daalein
+BOT_TOKEN = "8416890063:AAHZg7VlanFSpTxb8po1ssfpFNnmL2icZFY" # @BotFather se naya bot banakar token yahan daalein
 TARGET_BOT = "INDRAJIT_TCP_BOT"         # Aapka bataya hua bot
-OWNER_ID = 123456789                    # Aapki numerical ID (@userinfobot se lein)
+OWNER_ID = 7743079399                    # Aapki numerical ID (@userinfobot se lein)
 ADMIN_IDS = [987654321]                 # Admin ki IDs (comma se separate karein)
 
 bot = telebot.TeleBot(BOT_TOKEN)
